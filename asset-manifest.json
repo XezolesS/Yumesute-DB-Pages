@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yumesute-DB-Pages/static/css/main.c8f85d31.css",
+    "main.js": "/Yumesute-DB-Pages/static/js/main.e65c7b71.js",
+    "static/js/453.099983ae.chunk.js": "/Yumesute-DB-Pages/static/js/453.099983ae.chunk.js",
+    "index.html": "/Yumesute-DB-Pages/index.html",
+    "main.c8f85d31.css.map": "/Yumesute-DB-Pages/static/css/main.c8f85d31.css.map",
+    "main.e65c7b71.js.map": "/Yumesute-DB-Pages/static/js/main.e65c7b71.js.map",
+    "453.099983ae.chunk.js.map": "/Yumesute-DB-Pages/static/js/453.099983ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f85d31.css",
+    "static/js/main.e65c7b71.js"
+  ]
+}
