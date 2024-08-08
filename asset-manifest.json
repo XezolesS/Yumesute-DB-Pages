@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Yumesute-DB-Pages/static/css/main.0edb203e.css",
-    "main.js": "/Yumesute-DB-Pages/static/js/main.ebbb6506.js",
+    "main.css": "/Yumesute-DB-Pages/static/css/main.24b37f51.css",
+    "main.js": "/Yumesute-DB-Pages/static/js/main.f0a2b4b8.js",
     "static/js/453.099983ae.chunk.js": "/Yumesute-DB-Pages/static/js/453.099983ae.chunk.js",
     "index.html": "/Yumesute-DB-Pages/index.html",
-    "main.0edb203e.css.map": "/Yumesute-DB-Pages/static/css/main.0edb203e.css.map",
-    "main.ebbb6506.js.map": "/Yumesute-DB-Pages/static/js/main.ebbb6506.js.map",
+    "main.24b37f51.css.map": "/Yumesute-DB-Pages/static/css/main.24b37f51.css.map",
+    "main.f0a2b4b8.js.map": "/Yumesute-DB-Pages/static/js/main.f0a2b4b8.js.map",
     "453.099983ae.chunk.js.map": "/Yumesute-DB-Pages/static/js/453.099983ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0edb203e.css",
-    "static/js/main.ebbb6506.js"
+    "static/css/main.24b37f51.css",
+    "static/js/main.f0a2b4b8.js"
   ]
 }
