@@ -2,7 +2,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import HeaderMenu from './components/HeaderMenu';
 import Home from './components/Home';
-import DisplayActor from './components/Actor';
+import Actor from './components/Actor';
 
 function App() {
   return (
@@ -21,12 +21,10 @@ function App() {
       </header>
       <main className='App-content'>
         <div className='content-wrapper'>
-          <div className='content-inner'>
-            <Routes>
-              <Route exact path='/' element={<Home />} />
-              <Route path='/actor' element={<DisplayActor />} />
-            </Routes>
-          </div>
+          <Routes>
+            <Route exact path='/' element={<Home />} />
+            <Route path='/actor' element={<Actor />} />
+          </Routes>
         </div>
       </main>
       <footer className='App-footer'>

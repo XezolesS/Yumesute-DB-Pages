@@ -60,6 +60,7 @@ code {
   --font-size--medium: 20px;
   --font-size--large: 36px;
   --font-size--x-large: 42px;
+  --spacing--10: 0.20rem;
   --spacing--20: 0.44rem;
   --spacing--30: 0.67rem;
   --spacing--40: 1rem;

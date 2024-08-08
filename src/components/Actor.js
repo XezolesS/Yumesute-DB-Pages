@@ -1,6 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import fetchActor from '../api/ActorAPI';
+// import React, { useState, useEffect } from 'react';
+// import fetchActor from '../api/ActorAPI';
+import './Actor.css';
+import ActorSearch from './ActorSearch.js';
 
+/*
 function DisplayActor() {
   const [actorData, setActorData] = useState(null);
 
@@ -46,5 +49,16 @@ function ActorCard({ actor }) {
     <p>[{actor['card_name']}] {actor['actor_name']}</p>
   );
 };
+*/
 
-export default DisplayActor;
+function Actor() {
+  return (
+    <div className='content-inner'>
+      <h1 className='page-header'>ACTOR</h1>
+      <hr className='page-header-separator' />
+      <ActorSearch />
+    </div>
+  );
+};
+
+export default Actor;

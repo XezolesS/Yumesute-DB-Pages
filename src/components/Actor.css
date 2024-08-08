@@ -1,0 +1,11 @@
+.page-header {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  letter-spacing: 0.2rem;
+}
+
+.page-header-separator {
+  border-top: 5px solid var(--color--kathrina--yellow);
+  border-radius: 5px;
+}
